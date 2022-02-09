@@ -1,0 +1,32 @@
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+p {
+  font-size: 15px;
+  margin: 10px 20px 20px;
+  color: hsl(220, 15%, 55%);
+}
+
+.header-text{
+  margin: 30px 10px 0;
+  font-size: 25px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
+
+img {
+  width: 320px;
+  border-radius: 10px;
+}
+
+.container-fluid{
+  border-radius: 20px;
+  background-color: #fff;
+  padding:20px;
+  margin: 85px auto;
+  text-align: center;
+  width: 360px;
+  box-shadow: 0 10px 40px #9f9f9f;
+}
