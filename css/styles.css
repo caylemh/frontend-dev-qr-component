@@ -10,23 +10,23 @@ p {
 }
 
 .header-text{
-  margin: 30px 10px 0;
-  font-size: 25px;
+  margin: 20px 12px 0;
+  font-size: 20px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 
 img {
-  width: 320px;
+  width: 280px;
   border-radius: 10px;
 }
 
 .container-fluid{
   border-radius: 20px;
   background-color: #fff;
-  padding:20px;
-  margin: 85px auto;
+  padding:15px;
+  margin: 130px auto;
   text-align: center;
-  width: 360px;
+  width: 315px;
   box-shadow: 0 10px 40px #9f9f9f;
 }
