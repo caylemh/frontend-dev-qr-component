@@ -13,18 +13,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-RAGkn5lzg](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-RAGkn5lzg)
+- Live Site URL: [https://caylemh.github.io/frontend-dev-qr-component/](https://caylemh.github.io/frontend-dev-qr-component/)
 
 ## My process
 
@@ -48,5 +46,4 @@ To eventually make the QR Component interactive and to produce a Modal Component
 
 ## Author
 
-- Website - [Caylem Harris](https://www.your-site.com)
 - Frontend Mentor - [@caylemh](https://www.frontendmentor.io/profile/caylemh)
