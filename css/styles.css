@@ -23,7 +23,7 @@ p {
   color: hsl(220, 15%, 55%);
 }
 
-.header-text{
+h1 {
   margin: 20px 12px 0;
   font-size: 1.4rem;
   font-weight: 700;
