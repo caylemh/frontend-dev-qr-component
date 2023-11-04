@@ -34,11 +34,12 @@ I first began with the HTML skeleton for the project and then proceeded to imple
 - CSS
 - CSS custom properties
 - Desktop-first workflow
-- Bootstrap 4.6.0
 
 ### What I learned
 
 Using HTML and CSS together with Bootstrap to create a simple yet stylish component.
+
+- Update: Removed Bootstrap and used Flex Box layout which worked better in this case.
 
 ### Continued development
 
